@@ -6,7 +6,7 @@ This repository hosts the official Android APK releases of Game Legacy.
 
 To run the Game Legacy app, you have to downdload the Game-Legacy.apk file 
 and install it on your device.
-Your device must be running at Android 12 version or newer to use the application.
+Your device must be running at Android 13 version or newer to use the application.
 
 ### With Game Legacy, you can:
 - Create and browse your game collection
