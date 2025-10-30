@@ -38,23 +38,23 @@ It was created to enhance the user experience and bring an extra layer of immers
 ### Game Status
 ![Game Status](screenshots/game_status.png)
 
+### Game Session
+![Game Session](screenshots/game_status_2.png)
+
 ### Add Review
-![Add Review](screenshots/add_review.png)
+![Add Review](screenshots/review.png)
 
-### Add Friend
-![Add Friend](screenshots/add_friend.png)
+### View Reviews
+![View Reviews](screenshots/review_2.png)
 
-### Statistics - 1
-![Statistics 1](screenshots/statistics_1.png)
+### Friends
+![Friends](screenshots/friends.png)
 
-### Statistics - 2
-![Statistics 2](screenshots/statistics_2.png)
+### Statistics
+![Statistics](screenshots/statistics.png)
 
 ### Profile
 ![Profile](screenshots/profile.png)
 
 ### Settings - Theme
-![Settings Theme](screenshots/settings_theme.png)
-
-### Settings - Music Player
-![Settings Music Player](screenshots/settings_music_player.png)
+![Settings Theme](screenshots/settings.png)
