@@ -1,12 +1,12 @@
 ## Game Legacy
 With Game Legacy, you can easily and quickly store and manage your game 
-collection-anytime, anywhere.
+collection anytime-anywhere.
 
 This repository hosts the official Android APK releases of Game Legacy.
 
 To run the Game Legacy app, you have to downdload the Game-Legacy.apk file 
 and install it on your device.
-Your device must be running at Android 13 version or newer to use the application.
+Your device must be running at Android 13 version or newer for full functionality.
 
 ### With Game Legacy, you can:
 - Create and browse your game collection
@@ -20,6 +20,10 @@ Your device must be running at Android 13 version or newer to use the applicatio
 ### 🎵 Music
 All music included in the app is 100% original and composed by me.  
 It was created to enhance the user experience and bring an extra layer of immersion.
+
+### Feedback
+This app is free to use.
+If you’d like to help improve it, you can send your feedback to game-legacy@outlook.com.
 
 ## Screenshots
 
