@@ -1,5 +1,5 @@
 ## Game Legacy
-With Game Legacy, you can easily and quickly store and manage your game 
+With Game Legacy, you can easily store and manage your game 
 collection anytime-anywhere.
 
 This repository hosts the official Android APK releases of Game Legacy.
@@ -24,6 +24,8 @@ It was created to enhance the user experience and bring an extra layer of immers
 ### Feedback
 This app is free to use.
 If you’d like to help improve it, you can send your feedback to game-legacy@outlook.com.
+
+Built for gamers, by a gamer.
 
 ## Screenshots
 
