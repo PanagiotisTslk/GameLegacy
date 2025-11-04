@@ -8,6 +8,8 @@ To run the Game Legacy app, you have to downdload the Game-Legacy.apk file
 and install it on your device.
 Your device must be running at Android 13 version or newer for full functionality.
 
+Built for gamers, by a gamer.
+
 ### With Game Legacy, you can:
 - Create and browse your game collection
 - Track the status of each game for real-time gameplay monitoring
@@ -24,8 +26,6 @@ It was created to enhance the user experience and bring an extra layer of immers
 ### Feedback
 This app is free to use.
 If you’d like to help improve it, you can send your feedback to game-legacy@outlook.com.
-
-Built for gamers, by a gamer.
 
 ## Screenshots
 
