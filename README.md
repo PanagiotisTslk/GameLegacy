@@ -1,4 +1,6 @@
 ## Game Legacy
+Built for gamers, by a gamer.
+
 With Game Legacy, you can easily store and manage your game 
 collection anytime-anywhere.
 
@@ -7,8 +9,6 @@ This repository hosts the official Android APK releases of Game Legacy.
 To run the Game Legacy app, you have to downdload the Game-Legacy.apk file 
 and install it on your device.
 Your device must be running at Android 13 version or newer for full functionality.
-
-Built for gamers, by a gamer.
 
 ### With Game Legacy, you can:
 - Create and browse your game collection
